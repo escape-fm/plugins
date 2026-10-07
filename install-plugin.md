@@ -5,7 +5,7 @@ background music that follows their work: a small plugin tells the escape.fm pla
 agent is working, waiting for them or done, and the music follows. This guide is written for you.
 Answer the person in their own language.
 
-This guide is for escape.fm plugins 0.6.0. The plugins are open source:
+This guide is for escape.fm plugins 0.6.1. The plugins are open source:
 https://github.com/escape-fm/plugins
 
 ## Before you change anything

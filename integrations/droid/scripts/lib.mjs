@@ -60,7 +60,7 @@ export function welcomed() {
   if (unopened !== undefined && config.key) writeJson(CONFIG, config)
 }
 
-export const pairingUrl = (config) => `${PLAYER}/#k=${config.key}`
+export const pairingUrl = (config) => `${PLAYER}/listen#k=${config.key}`
 
 /** A machine with no screen to open a browser on. */
 export function headless() {
